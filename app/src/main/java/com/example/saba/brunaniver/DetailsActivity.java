@@ -39,7 +39,8 @@ public class DetailsActivity extends Activity{
             //ImageView imgView=new ImageView(this);
             TypedArray imgs = getResources().obtainTypedArray(R.array.image_ids);
 
-            imageView.setBackgroundResource(imgs.getResourceId(2, -1));
+          //  imageView.setBackgroundResource(imgs.getResourceId(2, -1));
+
 
 
 
