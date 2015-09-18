@@ -59,6 +59,7 @@ public class MainActivity extends Activity {
 
                 //Start details activity
                 startActivity(intent);
+                //bdfdshfsjk
             }
         });
 
